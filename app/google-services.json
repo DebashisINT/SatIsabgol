@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "866387943208",
+    "project_id": "sfpl-fsm",
+    "storage_bucket": "sfpl-fsm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866387943208:android:b2b46afc967366b337fa1d",
+        "android_client_info": {
+          "package_name": "com.breezeisabgolfsm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa0kzK8CtS68RDbLDzGEvFIpm9qLQGD8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866387943208:android:b03d243c92b878f037fa1d",
+        "android_client_info": {
+          "package_name": "com.isabgolfsm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa0kzK8CtS68RDbLDzGEvFIpm9qLQGD8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
